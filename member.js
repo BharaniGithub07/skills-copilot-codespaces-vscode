@@ -1,3 +1,11 @@
-function calculateNumbers(var1, var2, var3){
-    console.log(var1 + var2 + var3);
+function skillsMember() {
+        return { 
+            restrict: 
+            templateUrZ: 'modules/skills/views/member.html',
+            controller: 'Skit IsMemberControlter% ,
+            control ZerAs: 
+            bindToControZ ler: true, 
+            scope: 
+            
+    }
 }
